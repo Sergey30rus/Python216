@@ -84,4 +84,4 @@ stadium = Stadium(name='Олд Траффорд', date='19.02.1910', country='А
                   capacity=74310,)
 
 def new_func():
-    print('Hello world!')
+    pass
