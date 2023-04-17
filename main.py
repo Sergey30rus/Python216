@@ -82,3 +82,6 @@ class Stadium:
 
 stadium = Stadium(name='Олд Траффорд', date='19.02.1910', country='Англия', city='Манчестер',
                   capacity=74310,)
+
+def new_func():
+    pass
